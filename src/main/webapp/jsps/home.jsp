@@ -10,17 +10,17 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mohan</h1>
-<h1 align="center">  . Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center">  . Om Namo Narayanas...</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
-		+91-9980923226.
+		Mohan, 
+		Tirumala,
+		Tirupathi,
+		+91-99663879999.
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
