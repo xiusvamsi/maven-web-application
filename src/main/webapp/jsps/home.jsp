@@ -17,7 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mohan, 
+		Mohanq, 
 		Tirumalaa,
 		Tirupathi,
 		+91-99663879999.
