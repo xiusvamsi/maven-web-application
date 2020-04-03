@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Hello- Home Page</title>
+<title>Hello Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
