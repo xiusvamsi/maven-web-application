@@ -18,7 +18,7 @@
 	</span>
 	<span style="font-weight: bold;">
 		Mohan, 
-		Tirumala,
+		Tirumalaa,
 		Tirupathi,
 		+91-99663879999.
 		<br>
