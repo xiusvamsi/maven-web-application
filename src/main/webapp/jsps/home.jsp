@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mohan</h1>
-<h1 align="center">  . Om Namo Narayanas...</h1>
+<h1 align="center">  Om Namo Narayanas...</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
